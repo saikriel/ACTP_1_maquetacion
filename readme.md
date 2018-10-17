@@ -1,3 +1,17 @@
+#Requerimientos
+
+Colores: 
+Rojo: #E56353
+Gris oscuro: #686963
+Gris claro: #707070
+Blanco: #FAFAFA
+
+Fonts: 
+Raleway-bold
+Raleway-ExtraLight
+Opensans-regular
+
+
 # Maquetación - Front End B-learning
 
 ## Pre-maquetado de página Tía Tomate
@@ -26,6 +40,7 @@ El diseñador del mockup envío una [guía de estilos](img/tiatomate-guia-de-est
 Además, ellos comentan que crearán el contenido de su página web con la persona encargada de mantener sus redes sociales. 
 
 ### Requsitos generales:
+
 
 Teniendo todo esto en cuenta deberás:
 
